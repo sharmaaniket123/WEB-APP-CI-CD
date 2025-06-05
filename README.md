@@ -1,4 +1,13 @@
 # WEB-APP-CI-CD
+
+
+### **Company:** CodTech IT Solutions  
+**Name:** Aniket Sharma  
+**Intern ID:** CT04DL985  
+**Domain:** DevOps  
+**Duration:** 4 Weeks  
+**Mentor:** Neela Santosh  
+
 # 📦 CI/CD Pipeline Using GitHub Actions
 
 ![Web App Screenshot](https://raw.githubusercontent.com/sharmaaniket123/WEB-APP-CI-CD/main/Screenshot%202025-06-05%20140218.png)
