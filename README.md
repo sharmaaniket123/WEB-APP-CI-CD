@@ -1,8 +1,6 @@
 # WEB-APP-CI-CD
 # 📦 CI/CD Pipeline Using GitHub Actions
 
-![Web App Screenshot](e64b08ae-e4a4-4a42-af6e-e92e175e77e1.png)
-
 ## 📌 Project Overview
 
 This project demonstrates how to build and deploy a basic HTML web application using a fully automated CI/CD pipeline powered by **GitHub Actions**. The goal is to eliminate manual deployment steps by setting up a process that automatically triggers upon changes pushed to the `main` branch, ensuring quick, reliable, and repeatable deployments.
